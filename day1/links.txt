@@ -1,0 +1,25 @@
+Day 1:
+  Ex1:
+
+  http://codeforces.com/problemset/problem/691/A?fbclid=IwAR1JU1hoExd-sLdpS5WYJ5DoxKksrgY_4-zpnx8qYS-apIJxqS7mwb-iKTE
+
+  Ex2:
+
+  http://codeforces.com/problemset/problem/731/A?fbclid=IwAR0Ih-YC8yjvHQNnq4BFWKXIpPFy8WsVbWexaO2hFKZ1dO5pjvHDlnkooT8
+
+  Ex3:
+
+  http://codeforces.com/problemset/problem/673/A?fbclid=IwAR3J8M4kCOReevzjGBSbo4N5cTkrHqJX7fEkRrPyLogzODBii73oB2D2cU4
+
+  BTVN:
+    --- Bài tập về nhà ---
+
+    Bài 01: http://codeforces.com/problemset/problem/242/B 
+    Bài 02: http://codeforces.com/problemset/problem/518/A
+
+    Link nộp bài tập về nhà: https://www.dropbox.com/request/c157g2d2nIAJmDtmtTaC
+
+    --- Bài tập làm thêm ---
+    Bài 01: http://codeforces.com/problemset/problem/378/B
+    Bài 02: http://codeforces.com/problemset/problem/609/B
+    Bài 03: http://codeforces.com/problemset/problem/61/B
