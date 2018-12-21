@@ -1,0 +1,71 @@
+https://www.dropbox.com/sh/tgoz8mwjcz5uvid/AABr7vAZvdUJc6Hhf9rjrDr2a?dl=0&fbclid=IwAR1R_gyCM4XCMVRtFkmlyC1xC2q2mu50FKmVzlIs0SWjeYtVySARb1BooTw
+
+
+https://www.dropbox.com/sh/3jza3brkx504ay0/AADT3xnb-RJyLqAbGfka54Ffa?dl=0&fbclid=IwAR3GjQ2zOedgz91WpJ2moTlAJTtqVc4wFinfSt0J9fZO0PGpz_v1VwnuQ_4
+
+
+https://www.dropbox.com/sh/pyxgw7tn8zkact6/AABEjW9gTOFnivg9smz0Oy2Ba?dl=0&fbclid=IwAR20FK5rlphovkvqGyaMR4AZMB8OvED_8ZcjPggIxIGq8YJwNJHSkH2qqgY
+
+
+https://www.dropbox.com/sh/buwj09rmj5ucmi3/AABasuN_1CrcqS8j05nfzu-_a?dl=0&fbclid=IwAR3SPZhimZb71B3oPqWMUHuB4P1VJKq4Gp2uEs2RA_13jzuLIA7HnbV2xag
+
+
+https://www.dropbox.com/sh/1jil7677qeabxpf/AAAt-lBcZ7mA5PgZAlnAXGgWa?dl=0&fbclid=IwAR1g04ncMHvBaH6O1pzwSuVe8dM9rqf3NdubW1_l5OghavGuetGN_CvoPU8
+
+
+https://www.dropbox.com/sh/fspfw7xhdxg7mfw/AACgU8KYZmb_s170OKCBEni0a?dl=0&fbclid=IwAR326223REQ4q-hXyuZ62kM9uAp0kBJ5yUyWX8-CyFfTmiFZ4wC3w-m0HdY
+
+
+https://www.dropbox.com/sh/lvtuiql1wiwkqy1/AACvZshZSiGUC4piQRILjCi1a?dl=0&fbclid=IwAR0LBr-S56M6KYSie2GzuNbLzR_HDoCP-9YvbJjvKwzw1bWpqd4JfV1piMA
+
+
+https://www.dropbox.com/sh/lcpasploz3qj2rc/AAAemy8CvePBwgJyVVB9xMfpa?dl=0&fbclid=IwAR1xeHgVw7U2FO4zn3EQy18A6CFx4HmZeK9fk8ro8brVPjWsATHWpFqj2-E
+
+
+https://www.dropbox.com/sh/amcro3w4pwjo18a/AADQ78XKXiuDIMoFTYfCQtkYa?dl=0&fbclid=IwAR1HJwGVoM3xQql2oKYrTKGnuU07PduCriCybb5aRChKCO7Wb55OfL-w1Xc
+
+
+https://www.dropbox.com/sh/ah40yq3w14kx7hh/AABqS2WHsBMu0zqUE_HuVI2Oa?dl=0&fbclid=IwAR3CCgVO8BME3LIaNe1Z-1aIy7vDrrjMcD87XGv6ua2JllApY5sZOtkjB-Y
+
+
+https://www.dropbox.com/sh/jxc51h0n7jn5d49/AADOzXJw4m6qMh0x-ZtIkstTa?dl=0&fbclid=IwAR1o4zKwGLXUdvXxRluO2945F0Lo31WWBke_BZoBYVeVCCguFRTGVw442Ag
+
+
+https://www.dropbox.com/sh/s1kd4btigap7qoe/AADf3mW-Hh56XRIOqy7SaPrAa?dl=0&fbclid=IwAR1e1mR4HNfdP5fSh8620CNGwC3SIi5NyHvnx6WuTrbjPDFU2JbYJV91uKM
+
+
+https://www.dropbox.com/sh/mk0o2y18cfo373z/AABnwOfeArIry3hMlbRSgbvva?dl=0&fbclid=IwAR35NGa8vPnc9lQKtYd4qHN_29E6J6zVxsGqz9Wqeq1nGyMg-gP9FYmzNbo
+
+
+https://www.dropbox.com/sh/e8541s894h6zkxb/AADfEb1-uJX0AeUCuv1WHoLXa?dl=0&fbclid=IwAR0iI581WhEPdtlVb7onxugMQwyBhi2tC5nK4HFasxqGojQ1QjCR-iRPO3s
+
+
+=================================== Chuan bi =========================================
+
+1. Chuẩn bị Resume: https://careercup.com/resume
+2. Nộp hs ntn:
+  + Nop qua trang web
+  + Tham gia thi Facebook Hacker Cup
+    + codechef.com
+  + Refer của 1 ng
+3. Luyện thuật toán
+  + interviewbit.com
+  + leetcode.com
+4. Thực hành
+  + Mock interview:
+    + coderpad.io
+    + coderpad.remoteinterview.io
+    + pramp.com
+5. Chuẩn bị về work visa:
+  + myvisajobs.com
+6. Quy trinh phong van dien ra ntn:
+  *) Cty co vp o vn:
+    + Den truc tiep pv 2 - 3 vong
+      + Vong 1: lam bai test 45' cau hoi tong hop
+      + 2 vong sau: Algorithm
+  *) Cty khong co vp o vn:
+    + Lam khao sat nghe nghiep. Lam bai test khoang 90' ve cau thuat toan don gian.
+      (0.2 -> 1.0) => chi submit 1 lan.
+    + Phone interview (2 den 3 vong): 45', 2 - 3 cau hoi thuat toan (2.0 - 4.0)
+    + Fulltime keo 3 vong: Onsite interview. Phong van tu sang den chieu. Code va giai tren bang.
+    + Matching (Ghep team)
